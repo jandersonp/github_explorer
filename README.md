@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/dhqccndp7/image/upload/v1592528609/Logo_3_zypjpg.png width="200px">
+  <img alt="Logo" src="https://res.cloudinary.com/dhqccndp7/image/upload/v1592528609/Logo_3_zypjpg.png" width="200px">
 </h1>
 
 <h3 align="center">
